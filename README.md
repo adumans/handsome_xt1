@@ -1,4 +1,4 @@
 # handsome_xt1
 
 
-![pic1](d.\src\img\1.png)
+![pic1](.\src\img\1.png)
